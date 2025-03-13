@@ -1,0 +1,4 @@
+package oops
+
+class Studclass {
+}
