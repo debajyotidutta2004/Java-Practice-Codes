@@ -1,2 +1,4 @@
-package equals;public class jav {
+package equals;
+
+public class jav {
 }
